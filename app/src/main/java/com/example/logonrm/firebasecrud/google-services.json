@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "990685474305",
+    "firebase_url": "https://fiap-fcb7c.firebaseio.com",
+    "project_id": "fiap-fcb7c",
+    "storage_bucket": "fiap-fcb7c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990685474305:android:1b8e2d7eec39f34a",
+        "android_client_info": {
+          "package_name": "com.example.logonrm.firebasecrud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990685474305-7s9ehbgl0vvkl3ekbckv6je4r737m88h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8nuv4tm6mmHbLbh62ur7T6mJkLRdiipg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
